@@ -1,0 +1,5 @@
+streamlit==1.57.0
+langgraph==1.2.1
+langchain-deepseek==1.0.1
+python-dotenv==1.2.2
+pypdf==6.12.1
